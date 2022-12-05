@@ -1,0 +1,7 @@
+name: ClarkWhitelist
+version: 1.0.0
+main: sh.clh.clarkwhitelist.ClarkWhitelistPlugin
+description: A plugin to make sure that people don't grief the server
+author: Chloe
+website: https://github.com/chlohal/clarkwhitelist
+api-version: 1.19
